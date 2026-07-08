@@ -1,0 +1,9 @@
+2026-07-05 17:04:43 - Call to undefined function openssl_encrypt()
+#0 C:\yenii\vanguard api_[unknowncheats.me]_\gateway.php(184): build_payload('\n!my doc whitel...', '-----BEGIN PUBL...', '\x03')
+#1 {main}
+2026-07-05 17:04:50 - Call to undefined function openssl_encrypt()
+#0 C:\yenii\vanguard api_[unknowncheats.me]_\gateway.php(184): build_payload('\n!my doc whitel...', '-----BEGIN PUBL...', '\x03')
+#1 {main}
+2026-07-05 17:05:13 - Call to undefined function openssl_encrypt()
+#0 C:\yenii\vanguard api_[unknowncheats.me]_\gateway.php(184): build_payload('\n!my doc whitel...', '-----BEGIN PUBL...', '\x03')
+#1 {main}

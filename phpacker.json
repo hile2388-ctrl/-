@@ -1,0 +1,12 @@
+{
+    "entry": "gateway.php",
+    "include": [
+        "GPBMetadata/",
+        "Vanguard/",
+        "vendor/"
+    ],
+    "exclude": [
+        "*.log",
+        "*.txt"
+    ]
+}
